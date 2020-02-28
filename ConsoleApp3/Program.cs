@@ -8,6 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!");
             //note
+            //note 2 on private
         }
     }
 }
